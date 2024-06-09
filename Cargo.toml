@@ -1,0 +1,8 @@
+[package]
+name = "actix-ai-ms"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+actix-web = "4.7.0"
+rust-bert = "0.22.0"
